@@ -35,7 +35,7 @@ export default function Mainpage() {
             </div>
             <p className=" font-black text-xl font pt-5 pb-4">About the Instructor</p>
             <div className="flex flex-row gap-2">
-              <img className="w-1/5 h-32 rounded-full" src={inst_profile} alt="" />
+              <img className="w-32 h-32 rounded-full" src={inst_profile} alt="" />
               <div className="w-2/5 flex flex-col justify-between">
                 <p>
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
