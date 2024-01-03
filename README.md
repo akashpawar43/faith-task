@@ -5,24 +5,30 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>2. Clone repo</p>
+<p>1. Clone repo</p>
 
 ```
 https://github.com/akashpawar43/faith-task.git
 cd faith-task
 ```
 
-<p>6. Install dependencies for Client</p>
+<p>2. Install dependencies for Client</p>
 
 ```
 npm install
 ```
 
 
-<p>7. Run Client</p>
+<p>3. Run Client</p>
 
 ```
 npm run dev
+```
+
+<p>4. Run Production Build</p>
+
+```
+npm run build
 ```
 
   
@@ -37,3 +43,11 @@ Technologies used in the project:
 *   HTML
 *   CSS
 *   JavaScript
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/akashpawar43/faith-task/blob/master/public/website%20(3).png" alt="project-screenshot" >
+
+<img src="https://github.com/akashpawar43/faith-task/blob/master/public/website%20(2).png" alt="project-screenshot" >
+
+<img src="https://github.com/akashpawar43/faith-task/blob/master/public/website%20(1).png" alt="project-screenshot" >
