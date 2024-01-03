@@ -1,8 +1,39 @@
-# React + Vite
+<h1 align="center" id="title">Faith</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p id="description">Landing Page for Faith is build using ReactJs, NodeJS, Tailwind CSS, HTML, CSS, JavaScript.</p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🛠️ Installation Steps:</h2>
+
+<p>2. Clone repo</p>
+
+```
+https://github.com/akashpawar43/faith-task.git
+cd faith-task
+```
+
+<p>6. Install dependencies for Client</p>
+
+```
+npm install
+```
+
+
+<p>7. Run Client</p>
+
+```
+npm run dev
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   ReactJs
+*   NodeJs
+*   Tailwind CSS
+*   HTML
+*   CSS
+*   JavaScript
