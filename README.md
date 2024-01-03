@@ -2,6 +2,20 @@
 
 <p id="description">Landing Page for Faith is build using ReactJs, NodeJS, Tailwind CSS, HTML, CSS, JavaScript.</p>
 
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   ReactJs
+*   NodeJs
+*   Tailwind CSS
+*   HTML
+*   CSS
+*   JavaScript
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akashpawardev.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashpawar23/)
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -31,18 +45,6 @@ npm run dev
 npm run build
 ```
 
-  
-  
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
-*   ReactJs
-*   NodeJs
-*   Tailwind CSS
-*   HTML
-*   CSS
-*   JavaScript
 
 <h2>Project Screenshots:</h2>
 
